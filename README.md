@@ -25,7 +25,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Neerajjv/True-Source.git
+   git clone https://github.com/Padmesh-Coder/True-Source.git
 2. **Navigate to the Project Directory:**
    ```bash
    cd True-Source
